@@ -3,7 +3,7 @@ object Form1: TForm1
   Top = 0
   BorderIcons = [biSystemMenu, biMinimize]
   BorderStyle = bsSingle
-  Caption = 'RiseFashion Puzzle Game'
+  Caption = 'Puzzle Game'
   ClientHeight = 667
   ClientWidth = 834
   Color = clBtnFace
